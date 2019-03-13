@@ -1,0 +1,17 @@
+/*
+* Kayla Hughes
+* 2-1-19
+* My First Web Page
+*/
+*{
+
+}
+/* Body attributes here */
+body {
+
+}
+table, td, th{border: 2px solid darkblue;}
+table{border-collapse: collapse;}
+thead{background-color: lemonchiffon;}
+tbody{background-color: lightcoral;}
+tfoot{background-color: lightsteelblue;}
