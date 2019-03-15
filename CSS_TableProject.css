@@ -1,0 +1,23 @@
+/*
+* Kayla Hughes
+* 3-15-19
+* Schedule Project
+*/
+*{
+
+}
+/* Body attributes here */
+body {
+background-color:cornflowerblue;
+} 
+/* This chnges the color of the background */
+table, td, th {border: 2px solid purple;}
+    /* This changes the color, type, and boldness of the border */
+table {border-collapse: collapse;}
+    /* This makes it so the cells look like 1 box */
+thead {background-color: burlywood;}
+    /* This changes the color of the header section */
+tbody {background-color:azure;}
+    /* This changes the color of the body section */
+tfoot {background-color:lightcoral;}
+    /* This changes the color of the foot section */
